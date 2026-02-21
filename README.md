@@ -12,12 +12,6 @@ Aspiring MCA graduate with highly motivated and dedicated personality. I am eage
 ![](https://nirzak-streak-stats.vercel.app/?user=abhiugale&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiugale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhiugale&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/abhiugale)
-
----
-
 ## 🎖 GitHub Achievements
 
 - 🏹 [Quickdraw Achievement](https://github.com/users/abhiugale/achievements/quickdraw)
