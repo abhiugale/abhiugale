@@ -13,7 +13,9 @@ Aspiring MCA graduate with highly motivated and dedicated personality. I am eage
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiugale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhiugale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abhiugale&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
+![](https://github.com/users/abhiugale/achievements/quickdraw)<br />
+![](https://github.com/users/abhiugale/achievements/pull-shark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
